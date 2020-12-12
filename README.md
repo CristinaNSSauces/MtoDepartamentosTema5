@@ -37,7 +37,7 @@
 - MySQL 8.0
 
 **1&1**
-- http://daw215.ieslossauces.es/LoginLogoffTema5/codigoPHP/login.php
+- http://daw215.ieslossauces.es/MtoDepartamentosTema5/codigoPHP/login.php
 
 **Desarrollo**
-- http://daw215.sauces.local/LoginLogoffTema5/codigoPHP/login.php
+- http://daw215.sauces.local/MtoDepartamentosTema5/codigoPHP/login.php
